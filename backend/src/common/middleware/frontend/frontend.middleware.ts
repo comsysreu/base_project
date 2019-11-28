@@ -15,7 +15,7 @@ const allowedExt = [
   '.svg',
 ];
 
-const resolvePath = (file: string) => path.resolve(`../bot-dashboard/dist/bot-dashboard/${file}`);
+const resolvePath = (file: string) => path.resolve(`../sockets/dist/bot-dashboard/${file}`);
 
 export function frontend(req, res, next) {
     const { url } = req;
