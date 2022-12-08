@@ -22,7 +22,7 @@
     "@angular/platform-browser-dynamic": "^6.1.0",
     "@angular/router": "^6.1.0",
     "@nestjs/common": "^5.0.0",
-    "@nestjs/core": "^5.0.0",
+    "@nestjs/core": "^9.2.1",
     "@types/jasmine": "^2.8.8",
     "@types/jquery": "^3.3.4",
     "fastify-formbody": "^2.0.0",
